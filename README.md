@@ -112,7 +112,7 @@ brain_stroke_prediction/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/brain-stroke-prediction.git
+   git clone https://github.com/percy-o/brain-stroke-prediction.git
    cd brain-stroke-prediction
    ```
 
